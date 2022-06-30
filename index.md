@@ -45,6 +45,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
     - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
 - 2022.1.01
     - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
+
 <!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
