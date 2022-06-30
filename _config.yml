@@ -1,11 +1,13 @@
 title: 藤村 怜香 / Reika Fujimura # your name (or website title) here
 logo: "/images/logo1.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>藤村怜香の日本語版ホームページです。→<a href="https://www.reikafujimura.com/">English</a> 
+  <br>藤村怜香の日本語版ホームページです。→<a href="https://www.reikafujimura.com/" target="_blank">English</a> 
   <br><br>
   Data Scientist / Machine Learning Developer
   <br><br>
-  <a href="https://www.linkedin.com/in/reika-fujimura/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">LinkedIn Profile</a>
+  <br><br>
+  <a href="https://twitter.com/reikafujimura" target="_blank">Twitter</a> (English only)
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

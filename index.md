@@ -5,7 +5,7 @@
 
 email: reika.k.fujimura [at] gmail.com<br>
 
-Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a> 
+Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">link</a> 
 
 ---
 
@@ -21,13 +21,13 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 - 2019.4 - 2021.3 
     - 東京大学 修士 
         - 物理工学専攻 (十倉・金澤研究室)
-        - 研究業績 → [link](https://www.reikafujimura.com/research)
+        - 研究業績 → [link](https://www.reikafujimura.com/research){:target="_blank"}
 - 2015.4 - 2019.3 
     - 東京大学 学士
         - 物理工学専攻 (十倉・金澤研究室)
         - 理科一類
 - 2012.4 - 2015.3 
-    - 宮城県仙台第二高等学校
+    - 宮城県仙台第二高等学校卒業
 
 
 ---
