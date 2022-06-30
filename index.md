@@ -1,5 +1,7 @@
 # 藤村 怜香 / Reika Fujimura
 
+English → <a href="https://www.reikafujimura.com/" target="_blank">link</a> 
+
 ---
 
 ## 自己紹介
@@ -12,7 +14,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ---
 
-## 経歴
+## 略歴
 
 
 - 2022.7 - 
@@ -37,7 +39,12 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ## ニュース
 
-
+- 2022.7.04
+    - CBC (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
+- 2022.5.18
+    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
+- 2022.1.01
+    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
 <!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
