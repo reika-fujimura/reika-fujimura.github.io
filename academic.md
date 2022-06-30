@@ -19,7 +19,7 @@
 
 - "Emergent quantum transport phenomena in magnetic heterostructures of topological insulators and van der Waals tellurides" Master Thesis (FY2021, Dept. of Applied Physics, University of Tokyo)
 
-- "Current-Induced Switching of Topological Phases in Layered Magnets and Topological Insulator Heterostructures" Bachelor Thesis (FY2021, Dept. of Applied Physics, University of Tokyo)
+- "Current-Induced Switching of Topological Phases in Layered Magnets and Topological Insulator Heterostructures" Bachelor Thesis (FY2019, Dept. of Applied Physics, University of Tokyo)
 
 ---
 
