@@ -1,3 +1,5 @@
+# 藤村 怜香 / Reika Fujimura
+
 ## 自己紹介
 
 
@@ -26,7 +28,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
     - 東京大学 学士
         - 物理工学専攻 (十倉・金澤研究室)
         - 理科一類
-- 2012.4 - 2015.3 
+- 2015.3 
     - 宮城県仙台第二高等学校卒業
 
 
