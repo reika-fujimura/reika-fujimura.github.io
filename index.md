@@ -1,10 +1,9 @@
 ## 自己紹介
 
----
 
 カナダの国営企業で働くデータサイエンティストです.
 
-e-mail: reika.k.fujimura [at] gmail.com<br>
+email: reika.k.fujimura [at] gmail.com<br>
 
 Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a> 
 
@@ -12,22 +11,22 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 
 ## 経歴
 
----
 
-- 2022.6- 
-    - Data Scientist/ Machine Learning Developer, Data Science and Machine Intelligence Team, CBC
+- 2022.7 - 
+    - Data Scientist/ Machine Learning Developer, Data Science and Machine Intelligence Team, CBC.
 - 2022.2 
-    - カナダに移住・フリーランスのデータサイエンティストとして活動 
+    - カナダに移住, フリーランスのデータサイエンティストとして活動.
 - 2021.4 
-    - (株)リクルートにデータサイエンティストとして新卒入社
-- 2019.4-2021.3 
+    - 株式会社リクルート, データサイエンティストとして新卒入社.
+- 2019.4 - 2021.3 
     - 東京大学 修士 
-        - 物理工学専攻　(十倉・金澤研究室)
-- 2015.4-2019.3 
+        - 物理工学専攻 (十倉・金澤研究室)
+        - 研究業績 → [link](https://www.reikafujimura.com/research)
+- 2015.4 - 2019.3 
     - 東京大学 学士
+        - 物理工学専攻 (十倉・金澤研究室)
         - 理科一類
-        - 物理工学専攻　(十倉・金澤研究室)
-- 2012.4-2015.3 
+- 2012.4 - 2015.3 
     - 宮城県仙台第二高等学校
 
 
@@ -35,7 +34,6 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 
 ## ニュース
 
----
 
 <!-- ### Category Name 1 
 
