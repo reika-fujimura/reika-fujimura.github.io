@@ -34,6 +34,16 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 - 2015.3 
     - 宮城県仙台第二高等学校卒業
 
+---
+
+## ニュース
+
+- 2022.7.04
+    - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
+- 2022.5.18
+    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
+- 2022.1.01
+    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
 
 ---
 
@@ -41,49 +51,14 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 - [研究紹介ページ](/academic)
 
----
-
-## ニュース
-
-- 2022.7.04
-    - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
-- 2022.5.18
-    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
-- 2022.1.01
-    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
-
-
-## ニュース
-
-- 2022.7.04
-    - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
-- 2022.5.18
-    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
-- 2022.1.01
-    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
-
-
-<!-- ### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
 <!-- --- -->
 
-<!-- ### Category Name 2
+<!-- ## 個人プロジェクト
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- hoge
+
+- hoge
  -->
+<!-- - hoge -->
+
 
