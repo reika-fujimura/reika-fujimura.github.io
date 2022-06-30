@@ -26,7 +26,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 - 2019.4 - 2021.3 
     - 東京大学 修士 
         - 物理工学専攻 (十倉・金澤研究室)
-        - 研究業績 → [link](https://www.reikafujimura.com/research){:target="_blank"}
+        - 研究業績 → [link](/academic)
 - 2015.4 - 2019.3 
     - 東京大学 学士
         - 物理工学専攻 (十倉・金澤研究室)
@@ -37,14 +37,31 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ---
 
+## 研究業績
+
+- [研究紹介ページ](/academic)
+
+---
+
 ## ニュース
 
 - 2022.7.04
-    - CBC (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
+    - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
 - 2022.5.18
     - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
 - 2022.1.01
     - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
+
+
+## ニュース
+
+- 2022.7.04
+    - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time)としてJOINしました.
+- 2022.5.18
+    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
+- 2022.1.01
+    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
+
 
 <!-- ### Category Name 1 
 
@@ -70,10 +87,3 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 - [Project 5 Title](http://example.com/)
  -->
 
-
-
-
-
-<!-- --- -->
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
