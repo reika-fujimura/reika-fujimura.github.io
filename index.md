@@ -1,23 +1,34 @@
 ## 自己紹介
 
+---
+
 カナダの国営企業で働くデータサイエンティストです.
 
-e-mail: reika.k.fujimura [at] gmail.com
+e-mail: reika.k.fujimura [at] gmail.com<br>
+
 Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a> 
 
 ---
 
 ## 経歴
 
-- 2022.6- Data Scientist/ Machine Learning Developer, Data Science and Machine Intelligence Team, CBC
-- 2022.2 カナダに移住・フリーランスのデータサイエンティストとして活動 
-- 2021.4 (株)リクルートにデータサイエンティストとして新卒入社
-- 2019.4-2021.3 東京大学 修士 
-    - 物理工学専攻　(十倉・金澤研究室)
-- 2015.4-2019.3 東京大学 学士
-    - 理科一類
-    - 物理工学専攻　(十倉・金澤研究室)
-- 2012.4-2015.3 宮城県仙台第二高等学校
+---
+
+- 2022.6- 
+    - Data Scientist/ Machine Learning Developer, Data Science and Machine Intelligence Team, CBC
+- 2022.2 
+    - カナダに移住・フリーランスのデータサイエンティストとして活動 
+- 2021.4 
+    - (株)リクルートにデータサイエンティストとして新卒入社
+- 2019.4-2021.3 
+    - 東京大学 修士 
+        - 物理工学専攻　(十倉・金澤研究室)
+- 2015.4-2019.3 
+    - 東京大学 学士
+        - 理科一類
+        - 物理工学専攻　(十倉・金澤研究室)
+- 2012.4-2015.3 
+    - 宮城県仙台第二高等学校
 
 
 ---
@@ -26,7 +37,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 
 ---
 
-### Category Name 1 
+<!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -37,9 +48,9 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+<!-- --- -->
 
 <!-- ### Category Name 2
 
@@ -54,6 +65,6 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/">link</a>
 
 
 
----
+<!-- --- -->
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
