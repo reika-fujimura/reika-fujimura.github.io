@@ -11,6 +11,7 @@
     - PASPS-25, November 2020, Osaka University のセミナーセッションにて口頭発表しました
 
 - M. Mogi, K. Yasuda, __R. Fujimura__, R. Yoshimi, N. Ogawa, A. Tsukazaki, M. Kawamura, K. S. Takahashi, M. Kawasaki and Y. Tokura, “Current-induced switching of proximity-induced ferromagnetic surface states in a topological insulator” [Nature Communications 12, 1404 (2021)](https://www.nature.com/articles/s41467-021-21672-9){:target="_blank"}.
+    - 日経新聞に取り上げられました ([link](https://www.nikkei.com/article/DGXLRSP605973_T00C21A3000000/){:target="_blank"}).
 
 ---
 
