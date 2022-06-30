@@ -1,6 +1,6 @@
 # 藤村 怜香 / Reika Fujimura
 
-English → <a href="https://www.reikafujimura.com/" target="_blank">link</a> 
+藤村怜香の日本語版ホームページです. (<a href="https://www.reikafujimura.com/" target="_blank">English</a>)
 
 ---
 
@@ -47,7 +47,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 <!-- ---
 
-## 活動報告
+## その他活動報告
 
 -  -->
 
