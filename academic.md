@@ -44,7 +44,7 @@
 ## その他
 
 - データサイエンティスト, 株式会社リクルート (2021-2022)
-    - 中田 百科, __藤村 怜香__, 棚橋 耕太郎, "制約付き組合せ最適化問題に向けたQuantum ApproximateOptimization Algorithmの改良", [量子ソフトウェア（QS）2022-QS-5, 9, 1-6, (2022)](http://id.nii.ac.jp/1001/00217523/){:target="_blank"}.
+    - 中田 百科, __藤村 怜香__, 棚橋 耕太郎, "制約付き組合せ最適化問題に向けたQuantum ApproximateOptimization Algorithmの改良", [情報処理学会, 量子ソフトウェア（QS）2022-QS-5, 9, 1-6, (2022)](http://id.nii.ac.jp/1001/00217523/){:target="_blank"}.
 
 - Research Intern, QunaSys Inc. (2020-2021)
     - Medium blog, ["Computing the Green's function on near-term quantum computers"](https://qunasys.medium.com/computing-the-greens-function-on-near-term-quantum-computers-9c0111f1381){:target="_blank"} 

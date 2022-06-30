@@ -45,16 +45,11 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 - 2022.1.01
     - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
 
-<!-- --- -->
+<!-- ---
 
-<!-- ## スキルセット
+## 活動報告
 
-- 言語
-    - SQL, Python, R, SAS, Docker, 
-- インフラ
-    - GCP, AWS, MLOps, Apache Airflow, CI/CD
-- 分析
-    - Tableau, PowerBI, Google Data Studio, Adobe Analytics, Google Analytics -->
+-  -->
 
 ---
 
@@ -62,14 +57,5 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 - [研究紹介ページ](/academic)
 
-<!-- --- -->
-
-<!-- ## 個人プロジェクト
-
-- hoge
-
-- hoge
- -->
-<!-- - hoge -->
 
 
