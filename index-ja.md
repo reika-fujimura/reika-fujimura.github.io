@@ -39,7 +39,7 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 ## ニュース
 
 - 2022.07.27
-    - [トポロジカル磁性体に関する論文](https://www.nature.com/articles/s41535-022-00482-2)が出版されました.
+    - [トポロジカル磁性体に関する論文](https://www.nature.com/articles/s41535-022-00482-2){:target="_blank"}が出版されました.
 - 2022.7.04
     - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time, permanent)としてJOINしました.
 - 2022.5.18

@@ -10,7 +10,7 @@
     - カバー論文に選出されました
     - PASPS-25, November 2020, Osaka University のセミナーセッションにて口頭発表しました
 
-- Y. D. Kato, Y. Okamura, S. Minami, __R. Fujimura__, M. Mogi, R. Yoshimi, A. Tsukazaki, K. S. Takahashi, M. Kawasaki, R. Arita, Y. Tokura & Y. Takahashi, "Optical anomalous Hall effect enhanced by flat bands in ferromagnetic van der Waals semimetal" [npj Quantum Materials 7, 73 (2022)](https://www.nature.com/articles/s41535-022-00482-2)
+- Y. D. Kato, Y. Okamura, S. Minami, __R. Fujimura__, M. Mogi, R. Yoshimi, A. Tsukazaki, K. S. Takahashi, M. Kawasaki, R. Arita, Y. Tokura & Y. Takahashi, "Optical anomalous Hall effect enhanced by flat bands in ferromagnetic van der Waals semimetal" [npj Quantum Materials 7, 73 (2022)](https://www.nature.com/articles/s41535-022-00482-2){:target="_blank"}.
 
 - M. Mogi, K. Yasuda, __R. Fujimura__, R. Yoshimi, N. Ogawa, A. Tsukazaki, M. Kawamura, K. S. Takahashi, M. Kawasaki and Y. Tokura, “Current-induced switching of proximity-induced ferromagnetic surface states in a topological insulator” [Nature Communications 12, 1404 (2021)](https://www.nature.com/articles/s41467-021-21672-9){:target="_blank"}.
     - 日経新聞に取り上げられました ([link](https://www.nikkei.com/article/DGXLRSP605973_T00C21A3000000/){:target="_blank"}).
