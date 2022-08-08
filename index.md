@@ -38,6 +38,8 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ## ニュース
 
+- 2022.08.04
+    - 東大オープンキャンパスにて、[東大女子のキャリアデザイン術～女性卒業生による座談会](https://www.facebook.com/UTokyo.News/posts/pfbid0s2bGEVX2UJJpC18sUyYAwW9WkimcbdLQZZ7XxoEqoRjYKoJcmSyEY2CxFW41uv3Tl){:target="_blank"}のゲストとして登壇しました.
 - 2022.07.27
     - [トポロジカル磁性体に関する論文](https://www.nature.com/articles/s41535-022-00482-2){:target="_blank"}が出版されました.
 - 2022.7.04
