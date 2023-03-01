@@ -38,6 +38,8 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ## ニュース
 
+- 2023.02.28
+    - CBC Digital Labs から、[Tech blog 記事](https://medium.com/cbc-digital-labs/how-we-balance-relevance-and-surprise-in-ai-generated-content-recommendations-bdf9b3fae15c){:target="_blank"}が公開されました。([full-version](https://medium.com/@reika.k.fujimura/entropy-sampling-how-to-balance-relevance-and-surprise-in-recommendation-2223417a38ce){:target="_blank"})
 - 2022.08.04
     - 東大オープンキャンパスにて、[東大女子のキャリアデザイン術～女性卒業生による座談会](https://www.facebook.com/UTokyo.News/posts/pfbid0s2bGEVX2UJJpC18sUyYAwW9WkimcbdLQZZ7XxoEqoRjYKoJcmSyEY2CxFW41uv3Tl){:target="_blank"}のゲストとして登壇しました.
 - 2022.07.27
