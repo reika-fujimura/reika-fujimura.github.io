@@ -39,9 +39,9 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 ## ニュース
 
 - 2024.05.06
-    - 国際学会 (Pediatric Academic Societies Meeting) で発表しました　([投稿](https://www.linkedin.com/posts/reika-fujimura_pasannualmeeting-research-deeplearning-activity-7194137078534664196-TzD-?utm_source=share&utm_medium=member_desktop))
+    - Pediatric Academic Societies Meeting で研究成果を発表しました。[投稿](https://www.linkedin.com/posts/reika-fujimura_pasannualmeeting-research-deeplearning-activity-7194137078534664196-TzD-?utm_source=share&utm_medium=member_desktop)
 - 2024.04.22
-    - Lead Architect という肩書きになりました
+    - Lead Architect という肩書きになりました。
 - 2023.02.28
     - CBC Digital Labs から、[Tech blog 記事](https://medium.com/cbc-digital-labs/how-we-balance-relevance-and-surprise-in-ai-generated-content-recommendations-bdf9b3fae15c){:target="_blank"}が公開されました。([full-version](https://medium.com/@reika.k.fujimura/entropy-sampling-how-to-balance-relevance-and-surprise-in-recommendation-2223417a38ce){:target="_blank"})
 - 2022.08.04
