@@ -6,7 +6,7 @@
 
 ## 自己紹介
 
-カナダの国営企業で働くデータサイエンティストです.
+カナダの国営企業で働く機械学習エンジニアです.
 
 email: reika.k.fujimura [at] gmail.com<br>
 
@@ -38,18 +38,18 @@ Linkedin: <a href="https://www.linkedin.com/in/reika-fujimura/" target="_blank">
 
 ## ニュース
 
+- 2024.05.06
+    - 国際学会 (Pediatric Academic Societies Meeting) で発表しました　([投稿](https://www.linkedin.com/posts/reika-fujimura_pasannualmeeting-research-deeplearning-activity-7194137078534664196-TzD-?utm_source=share&utm_medium=member_desktop))
+- 2024.04.22
+    - Lead Architect という肩書きになりました
 - 2023.02.28
     - CBC Digital Labs から、[Tech blog 記事](https://medium.com/cbc-digital-labs/how-we-balance-relevance-and-surprise-in-ai-generated-content-recommendations-bdf9b3fae15c){:target="_blank"}が公開されました。([full-version](https://medium.com/@reika.k.fujimura/entropy-sampling-how-to-balance-relevance-and-surprise-in-recommendation-2223417a38ce){:target="_blank"})
 - 2022.08.04
     - 東大オープンキャンパスにて、[東大女子のキャリアデザイン術～女性卒業生による座談会](https://www.facebook.com/UTokyo.News/posts/pfbid0s2bGEVX2UJJpC18sUyYAwW9WkimcbdLQZZ7XxoEqoRjYKoJcmSyEY2CxFW41uv3Tl){:target="_blank"}のゲストとして登壇しました.
 - 2022.07.27
     - [トポロジカル磁性体に関する論文](https://www.nature.com/articles/s41535-022-00482-2){:target="_blank"}が出版されました.
-- 2022.7.04
+- 2022.07.04
     - [CBC](https://www.cbc.ca/){:target="_blank"} (Canadian Broadcasting Corporation) のAIチームにシニアデータサイエンティスト(full-time, permanent)としてJOINしました.
-- 2022.5.18
-    - [Colere Inc.](https://www.colere.inc/en){:target="_blank"} にリードデータサイエンティスト(freelance) としてJOINしました.
-- 2022.1.01
-    - [fvital Inc.](https://fvital.tech/){:target="_blank"} にデータサイエンティスト(freelance)としてJOINしました.
 
 <!-- ---
 
